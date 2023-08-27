@@ -21,13 +21,13 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://gitlab.com/scrutycs/asumr-jupyter.git
+  url: https://github.com/j-albr16/asumr.git
   path_to_book: docs  # Optional path to your book, relative to the repository root
   branch: main # Which branch of the repository should be used when creating links (optional)
 
 # jupyter hub
-launch_buttons:
-  jupyterhub_url: 
+# launch_buttons:
+#   jupyterhub_url: 
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
